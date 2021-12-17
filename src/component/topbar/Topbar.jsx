@@ -9,11 +9,11 @@ const Topbar = () => {
                 <div className="left">
                     <a href="#intro" className="logo">PB</a>
                     <div className="itemcontainer">
-                    <Person/>
+                    <Person className="icons"/>
                     <span>+2349099716233</span>
                     </div>
                     <div className="itemcontainer">
-                    <Mail/>
+                    <Mail className="icons"/>
                     <span>aakinuliola@gmail.com</span>
                     
                     </div>
